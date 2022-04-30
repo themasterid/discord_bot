@@ -1,5 +1,4 @@
 import discord
-
 from codes import token
 
 
