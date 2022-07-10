@@ -19,4 +19,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Описание на доработке...
+Пользуемся расширяя функционал :)
